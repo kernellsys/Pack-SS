@@ -1,0 +1,1 @@
+irm https://github.com/saioranew/powershell-script-UserAssist/raw/refs/heads/main/PC%20Analyst%20UserAssist.ps1 | iex
